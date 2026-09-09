@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moiré Trend Axis | Avant-Garde Architectural Haute Couture & Kinetic Textiles</title>
+    <meta name="description" content="Moiré Trend Axis is a contemporary luxury fashion atelier engineering structural silhouettes, kinetic moiré silk wave optics, and computational haute couture tailoring in New York.">
+    <link rel="canonical" href="https://moiretrendaxis.com/">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="Moiré Trend Axis">
+    <meta property="og:title" content="Moiré Trend Axis | Architectural Haute Couture">
+    <meta property="og:description" content="Sculptural silhouettes, kinetic wave optics, and computational tailoring from our Chelsea atelier.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://moiretrendaxis.com/">
+    <meta property="og:image" content="https://moiretrendaxis.com/images/hero_avant_garde_fashion.jpg">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Moiré Trend Axis | Avant-Garde Fashion">
+    <meta name="twitter:description" content="Architectural haute couture, kinetic moiré silk optics, and structural tailoring.">
+    <meta name="twitter:image" content="https://moiretrendaxis.com/images/hero_avant_garde_fashion.jpg">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-0LY0HY7L01');
+    </script>
+    <!-- Preconnect Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Master CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ClothingStore",
+      "name": "Moiré Trend Axis",
+      "image": "https://moiretrendaxis.com/images/hero_avant_garde_fashion.jpg",
+      "telephone": "+1-888-692-7483",
+      "email": "atelier@moiretrendaxis.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "520 West 28th Street",
+        "addressLocality": "New York",
+        "addressRegion": "NY",
+        "postalCode": "10001",
+        "addressCountry": "US"
+      },
+      "priceRange": "$$$$",
+      "url": "https://moiretrendaxis.com/"
+    }
+    </script>
+</head>
+<body>
+    <!-- Master Site Header -->
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="index.php" class="brand-logo">
+                <span class="logo-mark">◈</span>
+                <span class="logo-text">MOIRÉ TREND <span>AXIS</span></span>
+            </a>
+            <nav class="main-nav" id="mainNav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="index.php" class="nav-link active">Home</a></li>
+                    <li class="nav-item"><a href="about.html" class="nav-link ">About</a></li>
+                    <li class="nav-item"><a href="blog.html" class="nav-link ">Blog</a></li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link ">Contact</a></li>
+                    <li class="nav-item"><a href="privacy-policy.html" class="nav-link ">Privacy Policy</a></li>
+                    <li class="nav-item"><a href="terms-and-conditions.html" class="nav-link ">Terms & Conditions</a></li>
+                    <li class="nav-item"><a href="disclaimer.html" class="nav-link ">Disclaimer</a></li>
+                    <li class="nav-item"><a href="cookie-policy.html" class="nav-link ">Cookie Policy</a></li>
+                </ul>
+            </nav>
+            <div class="nav-actions">
+                <a href="contact.html" class="btn btn-header">Private Fitting</a>
+                <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle navigation menu" aria-expanded="false">
+                    <span class="hamburger-box">
+                        <span class="hamburger-inner"></span>
+                    </span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="site-main">
+        <!-- Section 1: Hero Editorial Banner -->
+        <section class="hero-section">
+            <div class="container">
+                <div class="hero-content">
+                    <div class="hero-badges">
+                        <span class="badge-pill">Haute Couture Collection 08</span>
+                        <span class="badge-pill">Kinetic Moiré Wave Optics</span>
+                        <span class="badge-pill">Chelsea Arts District Atelier</span>
+                    </div>
+                    <h1 class="hero-title">Architectural Form <span>In Kinetic Motion</span></h1>
+                    <p class="hero-description">Moiré Trend Axis investigates the physical boundary between structural architecture and wearable haute couture. Through computational pattern drafting, high-twist silk jacquard interference patterns, and titanium-reinforced internal geometry, we craft garments that reshape human space.</p>
+                    <div class="hero-cta">
+                        <a href="contact.html" class="btn btn-primary">Schedule Private Fitting</a>
+                        <a href="about.html" class="btn btn-secondary">Explore Design Philosophy</a>
+                    </div>
+                    <div class="hero-stats">
+                        <div class="stat-item">
+                            <span class="stat-num">100%</span>
+                            <span class="stat-label">Bespoke Made-to-Measure</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-num">0.1mm</span>
+                            <span class="stat-label">Laser Pattern Precision</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-num">180h</span>
+                            <span class="stat-label">Hand Artisanal Construction</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-num">0</span>
+                            <span class="stat-label">Synthetic Mass Fast-Fashion</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: Design Ethos & The Moiré Wave Effect -->
+        <section class="section">
+            <div class="container">
+                <div class="grid-2">
+                    <div class="feature-text-block">
+                        <span class="section-tagline">Optical Mechanics</span>
+                        <h2>The Science of Moiré Wave Interference</h2>
+                        <p class="lead">Moiré is not merely a surface ornament; it is a dynamic mathematical phenomenon born from physical grid interference.</p>
+                        <p>When two micro-ribbed textile lattices overlap at fractional angular offsets, light undergoes spatial filtering. The human eye perceives swirling, liquid ripple waves that move across the garment in direct response to the wearer's gait and kinetic velocity.</p>
+                        <p>Our Chelsea atelier collaborates directly with master silk weavers in Como, Italy and Lyon, France to weave bespoke high-twist silk faille and grosgrain with calculated warp thread densities exceeding 120 threads per centimeter. When tailored across sculptural bias geometries, the fabric transforms into an optical kinetic sculpture.</p>
+                        <ul class="feature-list">
+                            <li class="feature-item">
+                                <span class="feature-bullet">◈</span>
+                                <div class="feature-text">
+                                    <h4>Dynamic Light Refraction</h4>
+                                    <p>Interference waves shift organically under natural sunlight and nocturnal spotlights.</p>
+                                </div>
+                            </li>
+                            <li class="feature-item">
+                                <span class="feature-bullet">◈</span>
+                                <div class="feature-text">
+                                    <h4>Self-Supporting Structural Volumetrics</h4>
+                                    <p>Internal horsehair canvas and spring titanium stays suspend dramatic cantilevered silhouettes.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="feature-media">
+                        <img src="images/moire_silk_texture.jpg" alt="Macro detail of high twist moire silk textile interference pattern" width="800" height="600" loading="lazy">
+                        <span class="media-tag">Kinetic Moiré Wave Micro-Lattice</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: Runway Capsule Collection Showcase -->
+        <section class="section section-alt">
+            <div class="container">
+                <div class="section-header text-center">
+                    <span class="section-tagline">Collection 08: Refraction</span>
+                    <h2>Sculptural Silhouettes & Runway Architecture</h2>
+                    <p>Each silhouette represents an exercise in architectural cantilever, mathematical pleating, and uncompromising sartorial craftsmanship.</p>
+                </div>
+                <div class="grid-3">
+                    <div class="fashion-card">
+                        <div class="card-img-wrapper">
+                            <img src="images/structural_couture_silhouette.jpg" alt="Avant garde structural couture evening gown" class="card-img" width="600" height="400" loading="lazy">
+                        </div>
+                        <span class="capsule-badge">Look 01 • Obsidian Series</span>
+                        <h3 class="card-title">The Monolith Column Gown</h3>
+                        <p class="card-desc">Engineered in high-density wool crepe and watered silk moiré, featuring an exaggerated cantilevered shoulder line and hidden magnetic spine closures.</p>
+                        <div class="card-meta">
+                            <span>Bespoke Hand Stitching: 160h</span>
+                            <span>Textile: Lyon Silk Faille</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <div class="card-img-wrapper">
+                            <img src="images/sculptural_outerwear_piece.jpg" alt="Sculptural avant garde tailored outerwear coat" class="card-img" width="600" height="400" loading="lazy">
+                        </div>
+                        <span class="capsule-badge">Look 02 • Kinetic Series</span>
+                        <h3 class="card-title">The Asymmetrical Origami Cocoon</h3>
+                        <p class="card-desc">A three-dimensional sculptural overcoat constructed using algorithmic Miura-ori fold geometries that contract and expand dynamically with the body's stride.</p>
+                        <div class="card-meta">
+                            <span>Fold Density: 340 Articulations</span>
+                            <span>Textile: Double-Faced Cashmere</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <div class="card-img-wrapper">
+                            <img src="images/high_collar_tailored_coat.jpg" alt="High collar tailored architectural trench coat" class="card-img" width="600" height="400" loading="lazy">
+                        </div>
+                        <span class="capsule-badge">Look 03 • Chroma Series</span>
+                        <h3 class="card-title">The Cantilever Funnel Trench</h3>
+                        <p class="card-desc">Sharp geometric funnel collar drafted with internal carbon-fiber ribs, accented by acid chartreuse silk under-facings that flash during rapid movement.</p>
+                        <div class="card-meta">
+                            <span>Collar Height: 18cm Self-Supporting</span>
+                            <span>Textile: Bonded Technical Twill</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 4: Computational Pattern Drafting & Ergonomics -->
+        <section class="section">
+            <div class="container">
+                <div class="grid-2">
+                    <div class="feature-media">
+                        <img src="images/geometric_pleating_detail.jpg" alt="Geometric origami pleating detail on couture fabric" width="800" height="600" loading="lazy">
+                        <span class="media-tag">Algorithmic Tessellation Matrix</span>
+                    </div>
+                    <div class="feature-text-block">
+                        <span class="section-tagline">Computational Tailoring</span>
+                        <h2>Beyond Two-Dimensional Flat Patterning</h2>
+                        <p class="lead">Traditional tailoring begins with flat paper patterns that approximate the three-dimensional curves of the body. We begin with non-Euclidean parametric algorithms.</p>
+                        <p>Our atelier utilizes proprietary computational modeling software originally developed for aerospace aerodynamics and tensile membrane architecture. By scanning the client's body in dynamic motion rather than static posture, our patternmakers map lines of non-extension—anatomical vectors across the skin that experience zero stretching during gait.</p>
+                        <p>Seams and structural darts are aligned strictly along these neutral axes. This allows our garments to maintain razor-sharp, monolithic silhouettes without binding the wearer's arms or hiking at the waist during movement.</p>
+                        <div class="article-actions" style="justify-content: flex-start; margin-top: 2rem;">
+                            <a href="about.html" class="btn btn-outline">Discover Our Drafting Methods</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 5: The Master Loom & Artisanal Textile Weaving -->
+        <section class="section section-alt">
+            <div class="container">
+                <div class="grid-2">
+                    <div class="feature-text-block">
+                        <span class="section-tagline">Loom Metallurgy</span>
+                        <h2>Loom Craft Meets High-Tensile Filaments</h2>
+                        <p class="lead">The bedrock of every silhouette is raw fiber integrity. We reject commercial mass-market synthetics in favor of artisanal, high-twist continuous filament silks and extra-fine Merino wools.</p>
+                        <p>In our partner mills, vintage Jacquard looms are modified with custom tension governors that impart differential draw rates to alternate warp sections. This creates micro-ridges along the weft with microscopic height discrepancies of only 0.05 millimeters.</p>
+                        <p>When the finished fabric passes through heavy steel calender rollers under hundreds of tons of hydraulic pressure, the ridges flatten unevenly, permanently locking the hypnotic watered moiré grain into the physical heart of the silk without synthetic coatings or printed pigments.</p>
+                    </div>
+                    <div class="feature-media">
+                        <img src="images/textile_loom_engineering.jpg" alt="Artisanal jacquard textile loom weaving high twist silk" width="800" height="600" loading="lazy">
+                        <span class="media-tag">Bespoke Hydraulic Calendering Protocol</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 6: Monochromatic Avant-Garde Palette & Materials -->
+        <section class="section">
+            <div class="container">
+                <div class="section-header text-center">
+                    <span class="section-tagline">Material Selection</span>
+                    <h2>Engineered Fibers & Sartorial Mediums</h2>
+                    <p>Every textile deployed in our collections is formulated to provide sculptural stiffness, fluid kinetic drape, and generational longevity.</p>
+                </div>
+                <div class="grid-3">
+                    <div class="fashion-card">
+                        <div class="card-icon">◈</div>
+                        <h3 class="card-title">Watered Silk Faille (100% Mulberry)</h3>
+                        <p class="card-desc">High-density 4-ply organic Mulberry silk woven with deliberate weft variances to generate three-dimensional liquid moiré wave patterns that refract light.</p>
+                        <div class="card-meta">
+                            <span>Origin: Como, Italy</span>
+                            <span>Weight: 320 GSM</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <div class="card-icon">◈</div>
+                        <h3 class="card-title">Siberian Horsehair Interfacing</h3>
+                        <p class="card-desc">Woven horsehair canvas deployed inside jacket lapels and shoulder cantilevers, providing flexible spring memory that molds permanently to the wearer's anatomy.</p>
+                        <div class="card-meta">
+                            <span>Natural Spring Canvas</span>
+                            <span>Zero Synthetic Fusibles</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <div class="card-icon">◈</div>
+                        <h3 class="card-title">Cold-Forged Grade 5 Titanium Stays</h3>
+                        <p class="card-desc">Featherweight titanium bone stays integrated into architectural corsetry and collars, offering infinite flex fatigue resistance without adding weight.</p>
+                        <div class="card-meta">
+                            <span>Aerospace Titanium</span>
+                            <span>40% Lighter Than Steel</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 7: Chelsea Atelier & Made-to-Measure Protocol -->
+        <section class="section section-alt">
+            <div class="container">
+                <div class="section-header text-center">
+                    <span class="section-tagline">Private Commissions</span>
+                    <h2>The Bespoke Consultation Journey</h2>
+                    <p>Acquiring a piece from Moiré Trend Axis is an immersive collaborative commission spanning three distinct appointments at our Chelsea salon.</p>
+                </div>
+                <div class="grid-4">
+                    <div class="fashion-card">
+                        <h3 class="card-title">Phase I: Architectural Anatomical Scan</h3>
+                        <p class="card-desc">Comprehensive 54-point ergonomic measurement and dynamic motion analysis to determine your unique posture and shoulder axes.</p>
+                        <div class="card-meta">
+                            <span>Appointment Duration: 90 min</span>
+                            <span>Chelsea Flagship</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <h3 class="card-title">Phase II: Canvas Toile Fitting</h3>
+                        <p class="card-desc">A prototype garment constructed in unbleached Belgian cotton drill is fitted to sculpt and refine balance, pitch, and geometric drape.</p>
+                        <div class="card-meta">
+                            <span>Lead Time: 3 Weeks</span>
+                            <span>Structural Sculpting</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <h3 class="card-title">Phase III: Moiré Silk Construction</h3>
+                        <p class="card-desc">Master artisans hand-stitch the final silk faille, pad-stitching the horsehair canvas and anchoring internal titanium stays.</p>
+                        <div class="card-meta">
+                            <span>Atelier Benchwork: 120h</span>
+                            <span>Hand Silk Buttonholes</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <h3 class="card-title">Phase IV: Final Delivery & Archival Box</h3>
+                        <p class="card-desc">The completed commission is presented in a museum-grade archival cedar casket with lifetime tailoring and preservation guarantees.</p>
+                        <div class="card-meta">
+                            <span>Lifetime Warranty</span>
+                            <span>Archival Casket</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 8: Patron Accolades & Fashion Theory Review -->
+        <section class="section">
+            <div class="container">
+                <div class="section-header text-center">
+                    <span class="section-tagline">Critical Reception</span>
+                    <h2>Perspectives from Global Fashion Critics</h2>
+                    <p>What museum curators, collectors, and fashion theorists write regarding our structural textile explorations.</p>
+                </div>
+                <div class="grid-3">
+                    <div class="fashion-card">
+                        <p class="card-desc">"Moiré Trend Axis has executed what few fashion houses dare attempt: they have made physics wearable. The optical kinetic wave of their silk faille when moving through space is nothing short of hypnotic."</p>
+                        <div class="card-meta">
+                            <strong>Sybilla Thorne</strong>
+                            <span>Haute Couture Quarterly, Paris</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <p class="card-desc">"The craftsmanship inside the jacket lining is as breathtaking as the exterior silhouette. Hand-padded horsehair canvas and cold-forged titanium bones create a garment that feels like tailored armor."</p>
+                        <div class="card-meta">
+                            <strong>Arthur von Berg</strong>
+                            <span>Textile Arts Institute, Zurich</span>
+                        </div>
+                    </div>
+
+                    <div class="fashion-card">
+                        <p class="card-desc">"Commissioning a made-to-measure coat from their Chelsea salon altered my entire relationship with garments. It does not simply fit my body; it commands the architecture of the room."</p>
+                        <div class="card-meta">
+                            <strong>Helena Zhang</strong>
+                            <span>Architectural Director, New York</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 9: Atelier Inquiries (Accordion) -->
+        <section class="section section-alt">
+            <div class="container">
+                <div class="section-header text-center">
+                    <span class="section-tagline">Atelier FAQs</span>
+                    <h2>Frequently Answered Questions</h2>
+                    <p>Essential guidance on commissioning bespoke garments, lead times, international delivery, and textile care.</p>
+                </div>
+                <div class="faq-accordion">
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>How long does a bespoke made-to-measure commission require?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>From the initial anatomical scan to final delivery, a bespoke commission typically requires 8 to 12 weeks. This timeline accommodates the bespoke weaving of your selected moiré silk batch, hand-construction of the cotton toile, and over 140 hours of artisanal hand-stitching.</p>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>Can international patrons commission garments remotely?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Yes. For our international clientele in London, Paris, Tokyo, and Zurich, our traveling master cutter conducts private trunk fitting salons quarterly. We also facilitate high-resolution 3D lidar body scans conducted by partner tailoring ateliers globally.</p>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>How should moiré silk and structural garments be cared for?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Authentic moiré silk faille must never be subjected to conventional industrial steam presses or dry-cleaning solvents, which can disrupt the calendered grain alignment. We provide lifetime maintenance and specialized museum-grade steam conservation directly through our New York atelier.</p>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What is the price spectrum for bespoke outerwear and runway pieces?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Bespoke tailored jackets begin at $4,800, while multi-layered architectural coats and evening monolith gowns range between $8,500 and $18,000, reflective of the hundreds of hand-hours, precious silk yardage, and titanium hardware required.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 10: Final Fitting Reservation Call to Action -->
+        <section class="section" style="background: linear-gradient(180deg, var(--obsidian-surface) 0%, #050608 100%);">
+            <div class="container text-center">
+                <span class="section-tagline">Begin Your Commission</span>
+                <h2>Step Inside The Architectural Axis</h2>
+                <p style="max-width: 650px; margin: 0 auto 2.5rem; color: var(--text-muted);">Appointments at our Chelsea Arts District atelier are strictly limited to ensure uncompromising personal attention from our master tailoring brigade.</p>
+                <div class="article-actions" style="justify-content: center;">
+                    <a href="contact.html" class="btn btn-primary">Book Atelier Appointment</a>
+                    <a href="about.html" class="btn btn-secondary">Read Atelier History</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Master Site Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col brand-col">
+                    <a href="index.php" class="footer-logo">
+                        <span class="logo-mark">◈</span>
+                        <span class="logo-text">MOIRÉ TREND <span>AXIS</span></span>
+                    </a>
+                    <p class="footer-tagline">An avant-garde haute couture atelier pioneering architectural silhouettes, kinetic moiré wave optics, and computational garment tailoring.</p>
+                    <div class="footer-contact-info">
+                        <p><strong>Flagship Atelier:</strong> 520 West 28th Street, Chelsea Arts District, New York, NY 10001</p>
+                        <p><strong>Concierge Desk:</strong> <a href="tel:+18886927483">+1-888-692-7483</a></p>
+                        <p><strong>Couture Inquiries:</strong> <a href="mailto:atelier@moiretrendaxis.com">atelier@moiretrendaxis.com</a></p>
+                    </div>
+                </div>
+
+                <div class="footer-col">
+                    <h4 class="footer-heading">Couture Axis</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.php">Home Atelier</a></li>
+                        <li><a href="about.html">Atelier Bedrock</a></li>
+                        <li><a href="blog.html">Textile Archives</a></li>
+                        <li><a href="contact.html">Bespoke Consultations</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4 class="footer-heading">Textile Monographs</h4>
+                    <ul class="footer-links">
+                        <li><a href="blog/moire-interference-optics-in-high-twist-silk-jacquards.html">Moiré Interference Wave Optics</a></li>
+                        <li><a href="blog/computational-origami-and-auxetic-pleating-in-haute-couture.html">Computational Origami Pleating</a></li>
+                        <li><a href="blog/architectural-cantilever-tailoring-in-wool-and-horsehair.html">Architectural Cantilever Tailoring</a></li>
+                        <li><a href="blog/kinetic-biomechanics-of-asymmetrical-bias-cut-silhouettes.html">Kinetic Bias-Cut Biomechanics</a></li>
+                        <li><a href="blog/metallurgy-of-structural-corsetry-and-titanium-stays.html">Metallurgy of Titanium Corsetry</a></li>
+                        <li><a href="blog/circular-monofilament-engineering-and-closed-loop-silk.html">Circular Silk Monofilament Engineering</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4 class="footer-heading">Ethics & Governance</h4>
+                    <ul class="footer-links">
+                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                        <li><a href="terms-and-conditions.html">Terms & Conditions</a></li>
+                        <li><a href="disclaimer.html">Haute Couture Disclaimer</a></li>
+                        <li><a href="cookie-policy.html">Cookie Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <div class="footer-bottom-inner">
+                    <p class="copyright">&copy; <?php echo date('Y'); ?> Moiré Trend Axis. All rights reserved. Avant-Garde Architectural Fashion & Textile Engineering.</p>
+                    <div class="footer-legal-links">
+                        <a href="privacy-policy.html">Privacy</a>
+                        <a href="terms-and-conditions.html">Terms</a>
+                        <a href="disclaimer.html">Disclaimer</a>
+                        <a href="cookie-policy.html">Cookies</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to top button -->
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+
+    <!-- JavaScript -->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
